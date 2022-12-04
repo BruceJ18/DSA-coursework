@@ -1,4 +1,4 @@
-# hash tables Jovian coursework Assignment 2
+# hash tables  coursework Assignment 2
 
 # does not include linear probing
 class BasicHashTable:
